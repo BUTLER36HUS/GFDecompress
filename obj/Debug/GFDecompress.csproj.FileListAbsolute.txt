@@ -129,8 +129,8 @@ K:\Res\GFDecompress\bin\Debug\Microsoft.Scripting.xml
 K:\Res\GFDecompress\bin\Debug\Microsoft.Scripting.Metadata.xml
 K:\Res\GFDecompress\bin\Debug\Newtonsoft.Json.xml
 K:\Res\GFDecompress\bin\Debug\NLog.xml
-K:\Res\GFDecompress\obj\Debug\GFDecompress.csprojAssemblyReference.cache
 K:\Res\GFDecompress\obj\Debug\GFDecompress.csproj.CoreCompileInputs.cache
 K:\Res\GFDecompress\obj\Debug\GFDecompress.csproj.CopyComplete
 K:\Res\GFDecompress\obj\Debug\GFDecompress.exe
 K:\Res\GFDecompress\obj\Debug\GFDecompress.pdb
+K:\Res\GFDecompress\obj\Debug\GFDecompress.csprojAssemblyReference.cache

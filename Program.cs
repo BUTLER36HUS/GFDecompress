@@ -19,6 +19,10 @@ namespace GFDecompress
     {
         private static readonly Logger log = LogManager.GetCurrentClassLogger();
 
+        private static string ROOT_DIR;
+
+        private static bool IS_USING_LOCAL_FILES = false;
+
         #region .dat 복호화
 
         /// <summary>
@@ -66,7 +70,15 @@ namespace GFDecompress
             JArray output = new JArray();
 
             // stc 읽기
-            byte[] stcStream = File.ReadAllBytes("stc\\" + stcFile);
+
+            byte[] stcStream;
+            if (IS_USING_LOCAL_FILES)
+            {
+                stcStream = File.ReadAllBytes($"{ROOT_DIR}stc\\" + stcFile);
+            }
+            else {
+                stcStream = File.ReadAllBytes("stc\\" + stcFile);
+            }
             StcBinaryReader reader = new StcBinaryReader(stcStream);
 
             int code = reader.ReadUShort();         // 코드 (예: 5005)
@@ -184,23 +196,34 @@ namespace GFDecompress
             Stopwatch swh = new Stopwatch();
             swh.Start();
 
-            Console.WriteLine("\n====kr====");
-            Downloader kr = new Downloader();
-            //kr.downloadStc(); //stc는 한섭기준으로 받음, 중섭용으로 받고싶으면 해당 클래스의 메소드를 사용하면 됨
-            kr.downloadAsset();
+            if (args.Length > 0 && Directory.Exists(args[0])){ //choose to load local data files
+                ROOT_DIR = args[0];
+                if (ROOT_DIR.Last() != '/' && ROOT_DIR.Last() != '\\') {
+                    ROOT_DIR += "/";
+                }
+                IS_USING_LOCAL_FILES = true;
+                Console.WriteLine($"\nGoing to Load Data from {ROOT_DIR}");
+            }
+            else {
+                IS_USING_LOCAL_FILES = false;
+                Console.WriteLine("\n====kr====");
+                Downloader kr = new Downloader();
+                //kr.downloadStc(); //stc는 한섭기준으로 받음, 중섭용으로 받고싶으면 해당 클래스의 메소드를 사용하면 됨
+                kr.downloadAsset();
 
-            Console.WriteLine("\n====en====");
-            Downloader en = new Downloader("en");
-            en.downloadAsset();
+                Console.WriteLine("\n====en====");
+                Downloader en = new Downloader("en");
+                en.downloadAsset();
 
-            Console.WriteLine("\n====jp====");
-            Downloader jp = new Downloader("jp");
-            jp.downloadAsset();
+                Console.WriteLine("\n====jp====");
+                Downloader jp = new Downloader("jp");
+                jp.downloadAsset();
 
-            Console.WriteLine("\n====ch====");
-            Downloader ch = new Downloader("ch");
-            //ch.downloadStc();
-            ch.downloadAsset();
+                Console.WriteLine("\n====ch====");
+                Downloader ch = new Downloader("ch");
+                //ch.downloadStc();
+                ch.downloadAsset();
+            }
 
             #region NLog Configuration
             var config = new LoggingConfiguration();
@@ -219,7 +242,15 @@ namespace GFDecompress
             {
                 // 복호화
                 log.Info(".dat decrypt >> {0}", "catchdata.dat");
-                byte[] data = File.ReadAllBytes("stc\\catchdata.dat");
+                byte[] data;
+                if (IS_USING_LOCAL_FILES)
+                {
+                    data = File.ReadAllBytes($"{ROOT_DIR}stc\\catchdata.dat");
+                }
+                else
+                {
+                    data = File.ReadAllBytes("stc\\catchdata.dat");
+                }
                 byte[] key = Encoding.ASCII.GetBytes("c88d016d261eb80ce4d6e41a510d4048");
                 string output = DatFileDecompress(data, key);
 
