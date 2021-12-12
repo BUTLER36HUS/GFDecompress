@@ -13,7 +13,9 @@
       "sound": "bb_noel_nachujiguanqiang",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "2",
@@ -28,7 +30,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "3",
@@ -43,7 +47,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "4",
@@ -58,7 +64,9 @@
       "sound": "BT_MissileExplo",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "5",
@@ -73,7 +81,9 @@
       "sound": "bb_noel_nachujiguanqiang",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "6",
@@ -88,7 +98,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "7",
@@ -103,7 +115,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "8",
@@ -118,7 +132,9 @@
       "sound": "bb_noel_nachujiguanqiang",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1002",
@@ -133,7 +149,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "1",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1003",
@@ -148,7 +166,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1004",
@@ -163,7 +183,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1005",
@@ -178,7 +200,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1006",
@@ -193,7 +217,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1007",
@@ -208,7 +234,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1008",
@@ -223,7 +251,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1009",
@@ -238,7 +268,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1010",
@@ -253,7 +285,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1011",
@@ -268,7 +302,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1012",
@@ -283,7 +319,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1013",
@@ -298,7 +336,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1014",
@@ -313,7 +353,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1015",
@@ -328,7 +370,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1016",
@@ -343,7 +387,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1017",
@@ -358,7 +404,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1018",
@@ -373,7 +421,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1019",
@@ -388,7 +438,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1020",
@@ -403,12 +455,14 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "100861",
       "name": "mission_effect_config-10100861",
-      "code": "Heli",
+      "code": "heli",
       "description": "mission_effect_config-20100861",
       "priority": "0",
       "duration": "1.00",
@@ -418,7 +472,9 @@
       "sound": "UI_helicopter_loop",
       "spine": "1",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "900001",
@@ -433,7 +489,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "900002",
@@ -448,7 +506,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "900003",
@@ -463,7 +523,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000011",
@@ -478,7 +540,9 @@
       "sound": "BT_LockGate_Open",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000012",
@@ -493,7 +557,9 @@
       "sound": "BT_LockGate_Close",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000013",
@@ -508,7 +574,9 @@
       "sound": "BT_console_start",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000014",
@@ -523,7 +591,9 @@
       "sound": "BT_ControlStation_Freeze",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000015",
@@ -538,7 +608,9 @@
       "sound": "BT_RockExplo",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000016",
@@ -553,7 +625,9 @@
       "sound": "map_emp_explo",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000017",
@@ -568,7 +642,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000018",
@@ -583,7 +659,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000019",
@@ -598,7 +676,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000020",
@@ -613,7 +693,9 @@
       "sound": "map_emp_explo",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000021",
@@ -628,7 +710,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000022",
@@ -643,7 +727,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000023",
@@ -658,7 +744,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000024",
@@ -673,7 +761,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000025",
@@ -688,7 +778,9 @@
       "sound": "BT_The_Division_Flash_Bomb",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000026",
@@ -703,7 +795,9 @@
       "sound": "BT_The_Division_Flash_Bomb_Explosion",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000027",
@@ -718,7 +812,9 @@
       "sound": "BT_The_Division_Grenade",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000028",
@@ -733,7 +829,9 @@
       "sound": "BT_The_Division_Grenade_Explosion",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000029",
@@ -748,7 +846,9 @@
       "sound": "BT_The_Division_Machine_Gun_Tower",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000030",
@@ -763,7 +863,9 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000031",
@@ -778,7 +880,9 @@
       "sound": "0",
       "spine": "3",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000032",
@@ -793,7 +897,9 @@
       "sound": "BT_The_Division_Machine_Gun_Tower_Shooting",
       "spine": "4",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000033",
@@ -808,7 +914,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000034",
@@ -823,7 +931,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000035",
@@ -838,7 +948,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000036",
@@ -853,7 +965,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000037",
@@ -868,7 +982,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000038",
@@ -883,7 +999,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000039",
@@ -898,7 +1016,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000040",
@@ -913,7 +1033,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000041",
@@ -928,7 +1050,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000042",
@@ -943,7 +1067,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000043",
@@ -958,7 +1084,9 @@
       "sound": "BT_squad_howitzer",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000044",
@@ -973,7 +1101,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000045",
@@ -988,7 +1118,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000046",
@@ -1003,7 +1135,9 @@
       "sound": "SFX_20_Winter_Radar_Scan",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000047",
@@ -1018,7 +1152,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000048",
@@ -1033,7 +1169,9 @@
       "sound": "SFX_20_Winter_Boom",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000049",
@@ -1048,7 +1186,9 @@
       "sound": "SFX_20_Winter_Buff",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000050",
@@ -1063,7 +1203,9 @@
       "sound": "SFX_20_Winter_Debuff",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000051",
@@ -1078,7 +1220,9 @@
       "sound": "BT_rotate",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000052",
@@ -1093,7 +1237,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "1",
-      "relative_position": "1000,3000"
+      "relative_position": "1000,3000",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000053",
@@ -1108,7 +1254,9 @@
       "sound": "BT_The_Division_Grenade_Explosion",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000054",
@@ -1123,7 +1271,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000055",
@@ -1138,7 +1288,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000056",
@@ -1153,7 +1305,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000057",
@@ -1168,7 +1322,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000058",
@@ -1183,7 +1339,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000059",
@@ -1198,7 +1356,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000060",
@@ -1213,7 +1373,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000061",
@@ -1228,7 +1390,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000062",
@@ -1243,7 +1407,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000063",
@@ -1258,7 +1424,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000064",
@@ -1273,7 +1441,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000065",
@@ -1288,7 +1458,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000066",
@@ -1303,7 +1475,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000067",
@@ -1318,7 +1492,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000068",
@@ -1333,7 +1509,9 @@
       "sound": "SFX_20_Winter_Password",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000069",
@@ -1348,7 +1526,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000070",
@@ -1363,7 +1543,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000071",
@@ -1378,7 +1560,9 @@
       "sound": "Equip_Ice",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000072",
@@ -1393,7 +1577,9 @@
       "sound": "Equip_Smoke",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000073",
@@ -1408,7 +1594,9 @@
       "sound": "",
       "spine": "2",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000074",
@@ -1423,7 +1611,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000075",
@@ -1438,7 +1628,9 @@
       "sound": "21Summer_Bomb_Whoosh",
       "spine": "0",
       "if_starting": "1",
-      "relative_position": "-1000,2000"
+      "relative_position": "-1000,2000",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000076",
@@ -1453,7 +1645,9 @@
       "sound": "21Summer_Bomb_Alarm",
       "spine": "2",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000077",
@@ -1468,7 +1662,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000078",
@@ -1483,7 +1679,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000079",
@@ -1498,7 +1696,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000080",
@@ -1513,7 +1713,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000081",
@@ -1528,7 +1730,9 @@
       "sound": "BT_grenade_explode",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000082",
@@ -1543,7 +1747,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000083",
@@ -1558,58 +1764,865 @@
       "sound": "0",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000084",
       "name": "mission_effect_config-11000084",
-      "code": "MGT_shouji_1",
+      "code": "MissileLauncher_P",
       "description": "mission_effect_config-21000084",
       "priority": "0",
-      "duration": "0.50",
+      "duration": "1.00",
       "delay": "0.00",
       "size": "1.00",
       "offset": "0,0",
-      "sound": "BT_Sniper_skill_1",
-      "spine": "0",
+      "sound": "",
+      "spine": "1",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000085",
       "name": "mission_effect_config-11000085",
-      "code": "skidarrow05",
+      "code": "MissileLauncher_P",
       "description": "mission_effect_config-21000085",
       "priority": "0",
       "duration": "1.00",
       "delay": "0.00",
-      "size": "0.50",
+      "size": "1.00",
       "offset": "0,0",
       "sound": "",
-      "spine": "0",
+      "spine": "4",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000086",
       "name": "mission_effect_config-11000086",
-      "code": "skidarrow06",
+      "code": "MissileLauncher_P",
       "description": "mission_effect_config-21000086",
       "priority": "0",
       "duration": "1.00",
       "delay": "0.00",
-      "size": "0.50",
+      "size": "1.00",
       "offset": "0,0",
       "sound": "",
-      "spine": "0",
+      "spine": "5",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000087",
+      "name": "mission_effect_config-11000087",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000087",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "6",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
     },
     {
       "id": "1000088",
       "name": "mission_effect_config-11000088",
-      "code": "skidarrow08",
+      "code": "MissileLauncher_P",
       "description": "mission_effect_config-21000088",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "7",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000089",
+      "name": "mission_effect_config-11000089",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000089",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "8",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000090",
+      "name": "mission_effect_config-11000090",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000090",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "9",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000091",
+      "name": "mission_effect_config-11000091",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000091",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "10",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000092",
+      "name": "mission_effect_config-11000092",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000092",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "11",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000093",
+      "name": "mission_effect_config-11000093",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000093",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "12",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000094",
+      "name": "mission_effect_config-11000094",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000094",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "13",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000095",
+      "name": "mission_effect_config-11000095",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000095",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "14",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000096",
+      "name": "mission_effect_config-11000096",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000096",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "16",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000097",
+      "name": "mission_effect_config-11000097",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000097",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "17",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000098",
+      "name": "mission_effect_config-11000098",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000098",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "0",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000099",
+      "name": "mission_effect_config-11000099",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000099",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "1",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000100",
+      "name": "mission_effect_config-11000100",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000100",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "2",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000101",
+      "name": "mission_effect_config-11000101",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000101",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "3",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000102",
+      "name": "mission_effect_config-11000102",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000102",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "4",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000103",
+      "name": "mission_effect_config-11000103",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000103",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "5",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000104",
+      "name": "mission_effect_config-11000104",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000104",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "6",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000105",
+      "name": "mission_effect_config-11000105",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000105",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "7",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000106",
+      "name": "mission_effect_config-11000106",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000106",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "8",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000107",
+      "name": "mission_effect_config-11000107",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000107",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "9",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000108",
+      "name": "mission_effect_config-11000108",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000108",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "10",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000109",
+      "name": "mission_effect_config-11000109",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000109",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "11",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000110",
+      "name": "mission_effect_config-11000110",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000110",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "12",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000111",
+      "name": "mission_effect_config-11000111",
+      "code": "Portal_P",
+      "description": "mission_effect_config-21000111",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "13",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000112",
+      "name": "mission_effect_config-11000112",
+      "code": "SpeedTower",
+      "description": "mission_effect_config-21000112",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "0",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000113",
+      "name": "mission_effect_config-11000113",
+      "code": "SpeedTower",
+      "description": "mission_effect_config-21000113",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "1",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000114",
+      "name": "mission_effect_config-11000114",
+      "code": "SpeedTower",
+      "description": "mission_effect_config-21000114",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "2",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000115",
+      "name": "mission_effect_config-11000115",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000115",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "0",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000116",
+      "name": "mission_effect_config-11000116",
+      "code": "MissileLauncher_P",
+      "description": "mission_effect_config-21000116",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "0",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000117",
+      "name": "mission_effect_config-11000117",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000117",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "2",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000118",
+      "name": "mission_effect_config-11000118",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000118",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "3",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000119",
+      "name": "mission_effect_config-11000119",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000119",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "4",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000120",
+      "name": "mission_effect_config-11000120",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000120",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "5",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000121",
+      "name": "mission_effect_config-11000121",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000121",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "6",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000122",
+      "name": "mission_effect_config-11000122",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000122",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "7",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000123",
+      "name": "mission_effect_config-11000123",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000123",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "8",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000124",
+      "name": "mission_effect_config-11000124",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000124",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "9",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000125",
+      "name": "mission_effect_config-11000125",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000125",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "10",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000126",
+      "name": "mission_effect_config-11000126",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000126",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "11",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000127",
+      "name": "mission_effect_config-11000127",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000127",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "12",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000128",
+      "name": "mission_effect_config-11000128",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000128",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "13",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000129",
+      "name": "mission_effect_config-11000129",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000129",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "14",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000130",
+      "name": "mission_effect_config-11000130",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000130",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "15",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000131",
+      "name": "mission_effect_config-11000131",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000131",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "16",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000132",
+      "name": "mission_effect_config-11000132",
+      "code": "PylonTower",
+      "description": "mission_effect_config-21000132",
+      "priority": "0",
+      "duration": "1.00",
+      "delay": "0.00",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "",
+      "spine": "17",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "1000133",
+      "name": "mission_effect_config-11000133",
+      "code": "build_baoza_1",
+      "description": "mission_effect_config-21000133",
+      "priority": "10",
+      "duration": "1.00",
+      "delay": "0.50",
+      "size": "1.00",
+      "offset": "0,0",
+      "sound": "BT_grenade_explode",
+      "spine": "0",
+      "if_starting": "0",
+      "relative_position": "0",
+      "rotation_offset": "",
+      "is_focus": "0"
+    },
+    {
+      "id": "4040001",
+      "name": "mission_effect_config-14040001",
+      "code": "skidarrow04",
+      "description": "mission_effect_config-24040001",
       "priority": "0",
       "duration": "1.00",
       "delay": "0.00",
@@ -1618,7 +2631,9 @@
       "sound": "",
       "spine": "0",
       "if_starting": "0",
-      "relative_position": "0"
+      "relative_position": "0",
+      "rotation_offset": "0,0,-40",
+      "is_focus": "1"
     }
   ]
 }

@@ -133,4 +133,3 @@ K:\Res\GFDecompress\obj\Debug\GFDecompress.csproj.CoreCompileInputs.cache
 K:\Res\GFDecompress\obj\Debug\GFDecompress.csproj.CopyComplete
 K:\Res\GFDecompress\obj\Debug\GFDecompress.exe
 K:\Res\GFDecompress\obj\Debug\GFDecompress.pdb
-K:\Res\GFDecompress\obj\Debug\GFDecompress.csprojAssemblyReference.cache
