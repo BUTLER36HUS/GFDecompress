@@ -58,7 +58,7 @@
     },
     {
       "id": "8",
-      "reset_missions": "10277,10278,10279,10280,10281,10282,10283,10284,10285,10286,10287,10288,10289,10290,10291,10292,10293",
+      "reset_missions": "10277,10278,10279,10280,10281,10282,10283,10284,10285,10286,10287,10288,10289,10290,10291,10292,10293,10980,10981,10982,10983,10984,10985,10986,10987",
       "reset_draw_events": "1",
       "reset_mission_keys": "1",
       "campaign": "-32",
@@ -86,6 +86,30 @@
       "reset_draw_events": "1",
       "reset_mission_keys": "1",
       "campaign": "-37",
+      "difficulty": "0"
+    },
+    {
+      "id": "12",
+      "reset_missions": "10484,10485,10486,10487,10488,10489,10490,10491,10492,10493,10494,10495,10496,10497,10498,10499,10500,10501,10502,10503,10509",
+      "reset_draw_events": "1",
+      "reset_mission_keys": "1",
+      "campaign": "-38",
+      "difficulty": "0"
+    },
+    {
+      "id": "13",
+      "reset_missions": "10504,10505,10506,10507",
+      "reset_draw_events": "1",
+      "reset_mission_keys": "1",
+      "campaign": "-40",
+      "difficulty": "0"
+    },
+    {
+      "id": "15",
+      "reset_missions": "10632",
+      "reset_draw_events": "",
+      "reset_mission_keys": "",
+      "campaign": "0",
       "difficulty": "0"
     }
   ]
